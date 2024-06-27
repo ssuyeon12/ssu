@@ -1,4 +1,4 @@
-# SQL 튜닝 수업 노트 
+# SQL 수업 노트 
 
 안녕하세요, 여러분!  🌟
 
@@ -8,12 +8,14 @@
 
 &nbsp;
 
-## 수업 자료( ☀️ 2024년 3월 23일 updated)
+## 수업 자료( ☀️ 2024년 6월 27일 updated)
 
 
-- **1. RAC 개념**:  📄[노트](https://www.notion.so/e8bb7dfc0ebf4a0fb5165df3c5c539e8?v=88be955678224c3a98a742fc7399bcf0&p=08c0c8e4a72746279d0903aafb5d33a1&pm=s)
+- **1. 오라클 설치**:  📄[노트](https://www.notion.so/e8bb7dfc0ebf4a0fb5165df3c5c539e8?v=88be955678224c3a98a742fc7399bcf0&p=79ea2baa476349c1aa876bf727524dab&pm=s)
   &nbsp;
   
-- **2. 클러스터(cluster) 가 무엇인가 ?**: 📄 [노트](https://github.com/oracleyu01/rac_class/blob/main/RAC%ED%95%B5%EC%8B%AC2.%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0(Cluster)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
+- **예제1~3. 테이블에서 특정 열(COLUMN) 선택하기
+- 테이블에서 모든열(COLUMN)출력하기
+- 컬럼 별칭을 사용하여 출력되는 컬럼명 변경하기 **: 📄 [노트](https://www.notion.so/e8bb7dfc0ebf4a0fb5165df3c5c539e8?v=88be955678224c3a98a742fc7399bcf0&p=ccffa710bfc74226a53638c3dfd0dfd4&pm=s)
   
 - **3. RAC 를 운영할 때 필요한 IP 3가지 ?**: 📄[노트](https://github.com/oracleyu01/rac_class/blob/main/RAC%ED%95%B5%EC%8B%AC3.%20RAC%20%EB%A5%BC%20%EC%9A%B4%EC%98%81%ED%95%A0%20%EB%95%8C%20%ED%95%84%EC%9A%94%ED%95%9C%20IP%203%EA%B0%80%EC%A7%80.md)
